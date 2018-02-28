@@ -1,13 +1,11 @@
-# SuperZIP demo
+# WeatherMap demo
 
-See a version of it live at http://shiny.rstudio.com/gallery/superzip-example.html
+See a version of it live at https://weathermap.shinyapps.io/weathermap/
 
-You can run this demo with:
-```
-if (!require(devtools))
-  install.packages("devtools")
-devtools::install_github("rstudio/leaflet")
-shiny::runGitHub("rstudio/shiny-examples", subdir="063-superzip-example")
-```
 
-Data compiled for _Coming Apart: The State of White America, 1960–2010_ by Charles Murray (Crown Forum, 2012). This app was inspired by the Washington Post's interactive feature _[Washington: A world apart](http://www.washingtonpost.com/sf/local/2013/11/09/washington-a-world-apart/)_.
+## Demo Video
+<p align="center">
+<a href="https://www.youtube.com/watch?v=rZcj8Bn3K4M
+" target="_blank"><img src="" 
+alt="IMAGE ALT TEXT HERE" width="550" height="300" border="10" /></a>
+</p>
