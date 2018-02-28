@@ -1,0 +1,8 @@
+load("/Users/chao/Documents/competition/Equifaxweather/data/superzip.rds")
+load("/Users/chao/Documents/competition/Equifaxweather/data/superzip.rds")
+library(readr)
+library("readr")
+install.packages("readr")
+library(readr)
+readr("/Users/chao/Documents/competition/Equifaxweather/data/superzip.rds")
+readRDS("/Users/chao/Documents/competition/Equifaxweather/data/superzip.rds")
