@@ -2,6 +2,8 @@
 
 See a version of it live at https://weathermap.shinyapps.io/weathermap/
 
+## Presentation
+https://docs.google.com/viewer?url=${https://github.com/chao92/WeatherMap/blob/master/weather-map.pdf}
 
 ## Demo Video
 <p align="center">
