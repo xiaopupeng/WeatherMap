@@ -2,7 +2,7 @@
 
 See a version of it live at https://weathermap.shinyapps.io/weathermap/
 
-## Presentation
+## Slides
 https://github.com/chao92/WeatherMap/blob/master/weather-map.pdf
 
 ## Demo Video
